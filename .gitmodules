@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NetWeaver"]
+	path = NetWeaver
+	url = https://github.com/mw201608/netweaver
+	shallow = true
+	registered = true
+[submodule "SuperExactTest"]
+	path = SuperExactTest
+	url = https://github.com/mw201608/superexacttest
+	shallow = true
+	registered = true

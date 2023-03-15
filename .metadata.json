@@ -1,10 +1,10 @@
 [
   {
-    "package": "NetWeaver",
+    "package": "SuperExactTest",
     "oncran": true
   },
   {
-    "package": "SuperExactTest",
+    "package": "NetWeaver",
     "oncran": true
   }
 ]

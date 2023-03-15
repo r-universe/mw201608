@@ -1,5 +1,9 @@
 [
   {
+    "package": "COMBAT",
+    "oncran": true
+  },
+  {
     "package": "NetWeaver",
     "oncran": true
   },

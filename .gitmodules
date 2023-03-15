@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "COMBAT"]
+	path = COMBAT
+	url = https://github.com/mw201608/combat
+	shallow = true
+	registered = true
 [submodule "NetWeaver"]
 	path = NetWeaver
 	url = https://github.com/mw201608/netweaver
